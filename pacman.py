@@ -9,6 +9,7 @@ Exercises
 5. Make the ghosts smarter.
 
 """
+"Integrante: René Gómez"
 
 from random import choice
 from turtle import *
