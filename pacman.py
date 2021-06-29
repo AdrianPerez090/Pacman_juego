@@ -10,6 +10,7 @@ Exercises
 
 """
 "Integrante: René Gómez"
+"Integrante: Paco Arellano"
 
 from random import choice
 from turtle import *
